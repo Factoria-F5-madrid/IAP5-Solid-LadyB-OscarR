@@ -1,4 +1,4 @@
-#Demo de los principios S.O.L.I.D
+# Demo de los principios S.O.L.I.D
 Esta es una pequeña demo en Python de una aplicación práctica de los principios S.O.L.I.D.
 Como siempre, para poder ejecutar el programa con exito, debes de hacer lo siguiente:
 
